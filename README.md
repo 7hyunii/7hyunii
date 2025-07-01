@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7hyuniia&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7hyunii&show_icons=true&theme=onedark)
 
 <!--
 **7hyunii/7hyunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

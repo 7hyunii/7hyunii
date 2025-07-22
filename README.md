@@ -16,7 +16,7 @@
 -->
 [![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,notion)](https://skillicons.dev)
 
 **🔍 Previously learned:**
 

@@ -30,7 +30,7 @@
 ## 🧪 Experience
 
 - [Embedded Systems project (using STM32)](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) 
-- Android app development (using Kotlin)
+- Android App project (using Kotlin)
 
 
 

@@ -39,6 +39,9 @@
 ### 👥 Club Activities
   - PNU PULSE (Algorithm Club)
 
+### 🏆 Competitions
+- UCPC 2025 Participant
+- NYPC CODE BATTLE Participant
 
 
 ## 

@@ -29,8 +29,10 @@
 
 ## 🧪 Experience
 
-- [Embedded Systems project (using STM32)](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) 
+- Embedded Systems project (using STM32)
+  - [SmartFan Prototype](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) 
 - Android App project (using Kotlin)
+  - MovieLog - Movie Review App
 
 
 

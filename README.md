@@ -29,14 +29,15 @@
 
 ## 🧪 Experience
 
+### 💡 Projects
+
 - Embedded Systems project
   - [SmartFan Prototype (STM32, uC/OS-III)](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) 
 - Android App project
   - MovieLog - Movie Review App (Kotlin)
-- Club Activities
+
+### 👥 Club Activities
   - PNU PULSE (Algorithm Club)
-- Competitions
-  - UCPC2025 Participant
 
 
 

@@ -40,8 +40,9 @@
   - PNU PULSE (Algorithm Club)
 
 ### 🏆 Competitions
-- UCPC 2025 Participant
-- NYPC CODE BATTLE Participant
+- UCPC 2025 (Participant)  
+- NYPC Code Battle 2025 (Top 100)  
+
 
 
 ## 

@@ -41,14 +41,14 @@
 ### 💡 Projects
 | 프로젝트 | 소개 | Link |
 |------|------|------|
-| SmartFan | (STM32, uC/OS-III) | [🔗](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) |
-| 🎬 MovieLog | 나만의 영화 리뷰 앱 | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
+| **🌀 SmartFan** | 버튼/센서 기반 지능형 선풍기 제어 시스템 | [🔗](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) |
+| **🎬 MovieLog** | 나만의 영화 리뷰 앱 | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
 
 
 ### 👥 Club Activities
 | 연도 | 활동 | 설명 |
 |------|------|------|
-| 2025 | PNU PULSE | Algorithm Club 활동 |
+| 2025 | PNU PULSE | 교내 알고리즘 동아리 |
 
 ### 🏆 Competitions
 | 연도 | 대회 | 성과 |

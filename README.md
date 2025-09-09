@@ -4,13 +4,14 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome!👋&animation=fadeIn&fontAlignY=35&desc=Hyunii's%20Github%20Profile&descAlignY=54&descAlign=62&fontSize=70)
 
-## 🧑‍💻 About Me
+<!-- ## 🧑‍💻 About Me -->
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:7sonicx@gmail.com)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)
+
 👤 SeongHyeon Mun (문성현)  
 🎓 CSE @ Pusan National University (부산대학교 정보컴퓨터공학부 재학 중）  
 🧠 Interested in Embedded Systems · Backend Development
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:7sonicx@gmail.com)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)-->
 
 

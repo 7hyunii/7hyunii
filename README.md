@@ -1,9 +1,11 @@
-## Welcome!👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=500&size=25&duration=3000&pause=5000&width=435&lines=Welcome+to+Hyunii's+Github)](https://git.io/typing-svg)
 
 👤 SeongHyeon Mun (문성현)  
 🎓 CSE @ Pusan National University (부산대학교 정보컴퓨터공학부 재학 중）  
 🧠 Interested in Embedded Systems · Backend Development
 
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:7sonicx@gmail.com)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)-->
 
 
@@ -45,11 +47,11 @@
 
 
 
+<!--
 ## 
-
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:7sonicx@gmail.com)
-
-
+![7hyunii's GitHub stats](https://github-readme-stats.vercel.app/api?username=7hyunii&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7hyunii&layout=compact&theme=onedark)
+-->
 
 <!--
 **7hyunii/7hyunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,10 @@
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=500&size=25&duration=3000&pause=5000&width=435&lines=Welcome+to+Hyunii's+Github)](https://git.io/typing-svg)
-
+👋
+-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!👋&animation=fadeIn&fontAlignY=35&desc=Hyunii's%20Github%20Profile&descAlignY=54&descAlign=62&fontSize=70)
 
 ## 🧑‍💻 About Me
-
 👤 SeongHyeon Mun (문성현)  
 🎓 CSE @ Pusan National University (부산대학교 정보컴퓨터공학부 재학 중）  
 🧠 Interested in Embedded Systems · Backend Development

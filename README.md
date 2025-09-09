@@ -7,6 +7,7 @@
 <!-- ## 🧑‍💻 About Me -->
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:7sonicx@gmail.com)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)
 
 👤 SeongHyeon Mun (문성현)  
 🎓 CSE @ Pusan National University (부산대학교 정보컴퓨터공학부 재학 중）  
@@ -38,18 +39,23 @@
 ## 🧪 Experience
 
 ### 💡 Projects
+| 프로젝트 | 소개 | Link |
+|------|------|------|
+| SmartFan | (STM32, uC/OS-III) | [🔗](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) |
+| 🎬 MovieLog | 나만의 영화 리뷰 앱 | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
 
-- Embedded Systems project
-  - [SmartFan Prototype (STM32, uC/OS-III)](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) 
-- Android App project
-  - [MovieLog - Personal Movie Review App (Kotlin)](https://github.com/7hyunii/MovieLog-AndroidAppProject)
 
 ### 👥 Club Activities
-  - PNU PULSE (Algorithm Club)
+| 연도 | 활동 | 설명 |
+|------|------|------|
+| 2025 | PNU PULSE | Algorithm Club 활동 |
 
 ### 🏆 Competitions
-- UCPC (2025) - Participant  
-- NYPC CODE BATTLE (2025) - Top 100  
+| 연도 | 대회 | 성과 |
+|------|------|------|
+| 2025 | UCPC | Participant |
+| 2025 | NYPC CODE BATTLE | Top 100 |
+
 
 
 

@@ -10,10 +10,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)
 
 👤 SeongHyeon Mun (문성현)  
-🎓 CSE @ Pusan National University (부산대학교 정보컴퓨터공학부 재학 중）  
-🧠 Interested in Embedded Systems · Backend Development
-
-<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)-->
+🎓 CSE @ Pusan National University (부산대학교 정보컴퓨터공학부 재학 중)
 
 
 ## 🛠 Tech Stacks & Tools

@@ -41,7 +41,7 @@
 ### 💡 Projects
 | 프로젝트 | 소개 | Link |
 |------|------|------|
-| **🌀 SmartFan** | 버튼/센서 기반 지능형 선풍기 제어 시스템 | [🔗](https://github.com/7hyunii/EmbeddedSystem-TermProject-2025) |
+| **🌀 SmartFan** | 버튼/센서 기반 지능형 선풍기 제어 시스템 | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
 | **🎬 MovieLog** | 나만의 영화 리뷰 앱 | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
 
 

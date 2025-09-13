@@ -50,7 +50,6 @@
 ### 🏆 Competitions
 | 연도 | 대회 | 성과 |
 |------|------|------|
-| 2025 | UCPC | Participant |
 | 2025 | NYPC CODE BATTLE | **Top 100** |
 
 

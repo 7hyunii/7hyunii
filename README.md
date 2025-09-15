@@ -10,7 +10,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)
 
 👤 SeongHyeon Mun (문성현)  
-🎓 CSE @ Pusan National University (부산대학교 정보컴퓨터공학부 재학 중)
 
 
 ## 🛠 Tech Stacks & Tools

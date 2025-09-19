@@ -35,20 +35,20 @@ Hi, I'm Seong-Hyeon Mun!👋 I'm a student majoring in Computer Science and Engi
 ## 🧪 Experience
 
 ### 💡 Projects
-| 프로젝트 | 소개 | Link |
-|------|------|------|
-| **🌀 SmartFan** | 버튼/센서 기반 지능형 선풍기 제어 시스템 | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
-| **🎬 MovieLog** | 나만의 영화 리뷰 앱 | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
+| Project | Description | Link |
+|:---|:---|:---:|
+| **🌀 SmartFan** | A button and sensor-based intelligent fan control system. | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
+| **🎬 MovieLog** | A personal movie review application to log and rate films. | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
 
 
 ### 👥 Club Activities
-| 연도 | 활동 | 설명 |
-|------|------|------|
-| 2025 ~ | PNU PULSE | 교내 알고리즘 동아리 |
+| Period | Activity | Description |
+|:---:|:---:|:---|
+| 2025 ~ | PNU PULSE | An academic club for algorithmic problem-solving and programming contests. |
 
 ### 🏆 Competitions
-| 연도 | 대회 | 성과 |
-|------|------|------|
+| Year | Competition | Achievement |
+|:---:|:---|:---|
 | 2025 | NYPC CODE BATTLE | **Top 100** |
 
 

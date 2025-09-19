@@ -9,7 +9,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)
 
-👤 SeongHyeon Mun (문성현)  
+Hi, I'm Seong-hyeon Mun!👋 I'm a student majoring in Computer Science and Engineering at Pusan National University (PNU).
 
 
 ## 🛠 Tech Stacks & Tools

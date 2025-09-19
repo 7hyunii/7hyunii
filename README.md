@@ -21,7 +21,7 @@ Hi, I'm Seong-hyeon Mun!👋 I'm a student majoring in Computer Science and Engi
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion)](https://skillicons.dev)
 
-**Previously learned:**
+**Have experience in:**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,kotlin,androidstudio)](https://skillicons.dev)
 

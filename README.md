@@ -8,9 +8,15 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)
 
-Hi, I'm Seong-hyeon Mun!👋 I'm a student majoring in Computer Science and Engineering at Pusan National University (PNU).
+<!--
+## 
+![7hyunii's GitHub stats](https://github-readme-stats.vercel.app/api?username=7hyunii&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7hyunii&layout=compact&theme=onedark)
+-->
 
-Contact📬 : 7sonicx@gmail.com
+- Hi, I'm **Seong-hyeon Mun**!👋
+- I'm a student majoring in Computer Science and Engineering at Pusan National University (PNU).
+- Contact📬 : 7sonicx@gmail.com
 
 
 ## 🛠 Tech Stacks & Tools
@@ -52,13 +58,6 @@ Contact📬 : 7sonicx@gmail.com
 |:---:|:---|:---|
 | 2025 | NYPC CODE BATTLE | **Top 100** |
 
-
-
-<!--
-## 
-![7hyunii's GitHub stats](https://github-readme-stats.vercel.app/api?username=7hyunii&count_private=true&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7hyunii&layout=compact&theme=onedark)
--->
 
 <!--
 **7hyunii/7hyunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

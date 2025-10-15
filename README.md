@@ -41,23 +41,29 @@
 
 ## 🧪 Experience
 
-### 💡 Projects
+### 📌 Projects
 | Project | Description | Link |
-|:---|:---|:---:|
+|:---|:---|:---|
 | **🌀 SmartFan** | A button and sensor-based intelligent fan control system. | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
 | **🎬 MovieLog** | A personal movie review application to log and rate films. | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
 
+### 🌱 Activities & Achievements
+| Date | Activity | Description / Achievement |
+|:---|:---|:---|
+| 2025~ | PNU PULSE (Club) | An academic club for algorithmic problem-solving and programming contests. |
+| 2025 | NYPC CODE BATTLE (Competition) | Top 100 |
 
+<!--
 ### 👥 Club Activities
 | Period | Activity | Description |
-|:---:|:---:|:---|
+|:---:|:---|:---|
 | 2025 ~ | PNU PULSE | An academic club for algorithmic problem-solving and programming contests. |
 
 ### 🏆 Competitions
 | Year | Competition | Achievement |
 |:---:|:---|:---|
-| 2025 | NYPC CODE BATTLE | **Top 100** |
-
+| 2025 | NYPC CODE BATTLE | Top 100 |
+-->
 
 <!--
 **7hyunii/7hyunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

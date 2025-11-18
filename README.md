@@ -49,7 +49,7 @@
 | Date | Activity | Description / Achievement |
 |:---|:---|:---|
 | 2025~ | PNU PULSE (Club) | An academic club for algorithmic problem-solving and programming contests. |
-| 2025 | NYPC CODE BATTLE (Competition) | Top 100 |
+| 2025 | NYPC CODE BATTLE (Competition) | Special Award (Top 13.6%) |
 
 <!--
 ### 👥 Club Activities

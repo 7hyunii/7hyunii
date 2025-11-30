@@ -45,7 +45,7 @@
 | **🌀 SmartFan** | A button and sensor-based intelligent fan control system. | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
 | **🎬 MovieLog** | A personal movie review application to log and rate films. | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
 
-### 🌱 Activities & Achievements
+### 🌱 Activities
 | Date | Activity | Description / Achievement |
 |:---|:---|:---|
 | 2025~ | PNU PULSE (Club) | An academic club for algorithmic problem-solving and programming contests. |

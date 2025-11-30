@@ -42,6 +42,7 @@
 ### 📌 Projects
 | Project | Description | Link |
 |:---|:---|:---|
+| **🤝 Teample Mate** | A database-driven platform for student team formation and peer evaluation. | [🔗](https://github.com/7hyunii/TeampleMate-DBProject) |
 | **🌀 SmartFan** | A button and sensor-based intelligent fan control system. | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
 | **🎬 MovieLog** | A personal movie review application to log and rate films. | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
 

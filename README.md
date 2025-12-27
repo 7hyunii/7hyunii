@@ -2,7 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=500&size=25&duration=3000&pause=5000&width=435&lines=Welcome+to+Hyunii's+Github)](https://git.io/typing-svg)
 👋
 -->
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome!👋&animation=fadeIn&fontAlignY=35&desc=Hyunii's%20Github%20Profile&descAlignY=54&descAlign=62&fontSize=70)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=50&pause=1000&color=00E0FF&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=git+commit+-m+'Hi+there!')](https://git.io/typing-svg)
 
 <!-- ## 🧑‍💻 About Me -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)

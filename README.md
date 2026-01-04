@@ -24,6 +24,7 @@
 
 - Hi, I'm **Seong-hyeon Mun**!👋
 - I'm a student majoring in Computer Science and Engineering at Pusan National University (PNU).
+- Blog : https://7hyunii.github.io
 - Contact📬 : 7sonicx@gmail.com
 
 ## 🛠 Studying...

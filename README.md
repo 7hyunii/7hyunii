@@ -14,7 +14,7 @@
 <!-- ## 🧑‍💻 About Me -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F7hyunii?color=purple&label=hits&size=small&base_count=100)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F7hyunii?color=purple&label=hits&size=small&base_count=0)](https://myhits.vercel.app)
 
 <!--
 ## 

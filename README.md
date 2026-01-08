@@ -65,12 +65,18 @@
 
 ## Experience
 
-### 📌 Projects
-| Project | Description | Link |
-|:---|:---|:---|
-| **🤝 Teample Mate** | A database-driven platform for student team formation and peer evaluation. | [🔗](https://github.com/7hyunii/TeampleMate-DBProject) |
-| **🌀 SmartFan** | A button and sensor-based intelligent fan control system. | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
-| **🎬 MovieLog** | A personal movie review application to log and rate films. | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
+<details>
+<summary><h3>📌 Projects </h3></summary>
+
+| Year | Project | Description | Link |
+|:---:|:---|:---|:---:|
+|2025| **🤝 Teample Mate** | Team project matching & management service for college students. | [🔗](https://github.com/7hyunii/TeampleMate-DBProject) |
+|2025| **🏎️ F1 Dashboard** | Interactive dashboard visualizing 2025 F1 season statistics and race schedules. | [🔗](https://github.com/7hyunii/F1-Dashboard-2025) |
+|2025| **🎲 Yacht Dice** | Yacht Dice game implemented on Xilinx Spartan-7 FPGA using Verilog. | [🔗](https://github.com/7hyunii/YachtDice-FPGA) |
+|2025| **🎬 MovieLog** | A personal movie review application to log and rate films. | [🔗](https://github.com/7hyunii/MovieLog-AndroidAppProject) |
+|2025| **🌀 SmartFan** | A button and sensor-based intelligent fan control system. | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
+
+</details>
 
 ### 🌱 Activities
 | Date | Activity | Description / Achievement |

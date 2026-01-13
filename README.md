@@ -16,11 +16,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/Lillyi)
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F7hyunii?color=purple&label=hits&size=small&base_count=0)](https://myhits.vercel.app)
 
-<!--
-## 
-![7hyunii's GitHub stats](https://github-readme-stats.vercel.app/api?username=7hyunii&count_private=true&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7hyunii&layout=compact&theme=onedark)
--->
 
 - Hi, I'm **Seong-hyeon Mun**!👋
 - I'm a student majoring in Computer Science and Engineering at Pusan National University (PNU).
@@ -83,6 +78,14 @@
 |:---|:---|:---|
 | 2025~ | PNU PULSE (Club) | An academic club for algorithmic problem-solving and programming contests. |
 | 2025 | NYPC CODE BATTLE (Competition) | Special Award (Top 100, Top 13.6%) |
+
+
+## 
+<div align="center">
+  
+![7hyunii's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=7hyunii&show_icons=true&theme=github_dark&hide_border=true&hide=stars&show=reviews&count_private=true&custom_title=My%20Github%20Stats&card_width=300px)
+
+</div>
 
 <!--
 ### 👥 Club Activities

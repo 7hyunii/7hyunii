@@ -74,10 +74,11 @@
 </details>
 
 ### 🌱 Activities
-| Date | Activity | Description / Achievement |
-|:---|:---|:---|
-| 2025~ | PNU PULSE (Club) | An academic club for algorithmic problem-solving and programming contests. |
-| 2025 | NYPC CODE BATTLE (Competition) | Special Award (Top 100, Top 13.6%) |
+| Date | Category | Activity | Description / Achievement |
+|:---|:---|:---|:---|
+| '25.12 - '26.02 | Competition | PNU AI Booster | Third Prize (Project Development) |
+| '25 - Present | Club | PNU PULSE | Academic club for Algorithmic PS and CP |
+| '25 | Competition | NYPC CODE BATTLE | Special Award (Top 100, Top 13.6%) |
 
 
 ## 
@@ -87,17 +88,6 @@
 
 </div>
 
-<!--
-### 👥 Club Activities
-| Period | Activity | Description |
-|:---:|:---|:---|
-| 2025 ~ | PNU PULSE | An academic club for algorithmic problem-solving and programming contests. |
-
-### 🏆 Competitions
-| Year | Competition | Achievement |
-|:---:|:---|:---|
-| 2025 | NYPC CODE BATTLE | Top 100 |
--->
 
 <!--
 **7hyunii/7hyunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

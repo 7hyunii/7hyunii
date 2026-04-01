@@ -76,7 +76,7 @@
 ### 🌱 Activities
 | Date | Category | Activity | Description / Achievement |
 |:---|:---|:---|:---|
-| '25.12 - '26.02 | Competition | PNU AI Booster | Third Prize (Project Development) |
+| '25.12 - '26.02 | Competition | PNU AI Booster | Second Prize (Project Development) |
 | '25 - Present | Club | PNU PULSE | Academic club for Algorithmic PS and CP |
 | '25 | Competition | NYPC CODE BATTLE | Special Award (Top 100, Top 13.6%) |
 

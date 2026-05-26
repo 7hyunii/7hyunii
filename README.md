@@ -58,6 +58,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
 -->
 
+<!--
 ## Experience
 
 <details>
@@ -72,13 +73,16 @@
 |2025| **🌀 SmartFan** | A button and sensor-based intelligent fan control system. | [🔗](https://github.com/7hyunii/SmartFan-EmbeddedProject) |
 
 </details>
+-->
+
+##
 
 ### 🏆 Awards
-| Date | Competition | Achievement |
-|:---|:---|:---|
-| '26.04 - '26.05 | PNU Creative Convergence AI Hackathon (Preliminary) | 🏅 Excellence Award, Finalist |
-| '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize (Project Development) |
-| '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) |
+| Date | Competition | Achievement | Link |
+|:---|:---|:---|:---:|
+| '26.04 - '26.05 | PNU Creative Convergence AI Hackathon (Preliminary) | 🏅 Excellence Award, Finalist | - |
+| '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize (Project Development) | [🔗](https://github.com/Seq-Lab/PrimerFlow) | 
+| '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) | - |
 
 ### 🌱 Experience
 | Date | Category | Organization / Project | Description |

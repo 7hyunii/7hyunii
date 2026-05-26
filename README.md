@@ -73,12 +73,17 @@
 
 </details>
 
-### 🌱 Activities
-| Date | Category | Activity | Description / Achievement |
+### 🏆 Awards
+| Date | Competition | Achievement |
+|:---|:---|:---|
+| '26.04 - '26.05 | PNU Creative Convergence AI Hackathon (Preliminary) | 🏅 Excellence Award, Finalist |
+| '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize (Project Development) |
+| '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) |
+
+### 🌱 Experience
+| Date | Category | Organization / Project | Description |
 |:---|:---|:---|:---|
-| '25.12 - '26.02 | Competition | PNU AI Booster | Second Prize (Project Development) |
 | '25 - Present | Club | PNU PULSE | Academic club for Algorithmic PS and CP |
-| '25 | Competition | NYPC CODE BATTLE | Special Award (Top 100, Top 13.6%) |
 
 
 ## 

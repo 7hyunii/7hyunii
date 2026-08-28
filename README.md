@@ -31,7 +31,7 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-7BE023?style=for-the-badge&logo=springboot&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-71D619?style=for-the-badge&logo=swagger&logoColor=white)<br/>
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)<br/>
-![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)<br/>
+<!--![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)<br/> -->
 
 
 <!--
@@ -80,7 +80,7 @@
 ### 🏆 Awards
 | Date | Competition | Achievement | Link |
 |:---|:---|:---|:---:|
-| '26.04 - '26.05 | PNU Creative Convergence AI Hackathon (Preliminary) | 🏅 Excellence Award, Finalist | - |
+| '26.04 - '26.05 | PNU Creative Convergence AI Hackathon (Preliminary) | 🏅 Excellence Award, Finalist | [🔗](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-02-terrabyte) |
 | '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize (Project Development) | [🔗](https://github.com/Seq-Lab/PrimerFlow) | 
 | '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) | - |
 

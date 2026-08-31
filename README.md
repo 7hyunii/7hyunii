@@ -7,20 +7,27 @@
 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=50&pause=1000&color=00E0FF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=git+commit+-m+'Hi+there!')](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=50&pause=1000&color=00E0FF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=git+commit+-m+'Hi:+there!')](https://git.io/typing-svg)
 
 </div>
 
+
+### Hi, I'm **Seong-hyeon Mun**! 👋 
+
+<img width="50" alt="CookieMonsterHelloGIFbySesameStreet" src="https://github.com/user-attachments/assets/e84dcfe1-0618-4204-8a03-37f5458c3a27" />
+
+Computer Science & Engineering @ **Pusan National University**
+
+[![Blog](https://img.shields.io/badge/Blog-7hyunii.github.io-155E75?style=flat&logo=jekyll&logoColor=white)](https://7hyunii.github.io) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/lillyi)
+
+
+
 <!-- ## 🧑‍💻 About Me -->
+<!--
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=7hyunii)](https://velog.io/@7sonic)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Lillyi)](https://solved.ac/lillyi)
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F7hyunii?color=purple&label=hits&size=small&base_count=0)](https://myhits.vercel.app)
+-->
 
-
-- Hi, I'm **Seong-hyeon Mun**!👋
-- I'm a student majoring in Computer Science and Engineering at Pusan National University (PNU).
-- Blog : https://7hyunii.github.io
-- Contact📬 : 7sonicx@gmail.com
 
 ## 🛠 Studying...
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -75,16 +82,15 @@
 </details>
 -->
 
-##
 
-### 🏆 Awards
+## 🏆 Awards
 | Date | Competition | Achievement | Link |
 |:---|:---|:---|:---:|
 | '26.04 - '26.05 | PNU Creative Convergence AI Hackathon (Preliminary) | 🏅 Excellence Award, Finalist | [🔗](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-02-terrabyte) |
 | '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize (Project Development) | [🔗](https://github.com/Seq-Lab/PrimerFlow) | 
 | '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) | - |
 
-### 🌱 Experience
+## 🌱 Experience
 | Date | Category | Organization / Project | Description |
 |:---|:---|:---|:---|
 | '25 - Present | Club | PNU PULSE | Academic club for Algorithmic PS and CP |

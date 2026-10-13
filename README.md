@@ -90,10 +90,17 @@ Computer Science & Engineering @ **Pusan National University**
 | '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize (Project Development) | [🔗](https://github.com/Seq-Lab/PrimerFlow) | 
 | '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) | - |
 
-## 🌱 Experience
-| Date | Category | Organization / Project | Description |
+## 🌱 Activities
+<!--
+| Date | Category | Organization / Activity | Description |
 |:---|:---|:---|:---|
 | '25 - Present | Club | PNU PULSE | Academic club for Algorithmic PS and CP |
+| '26.09 - Present | Club | PNU PULSE | Executive Member |
+-->
+| Date | Organization / Event | Role / Activity |
+|:---|:---|:---|
+| '25 - Present | PNU PULSE (Academic club for Algorithmic PS and CP) | Member |
+| '26.09 - Present | PNU PULSE (Academic club for Algorithmic PS and CP) | Executive Member |
 
 
 ## 

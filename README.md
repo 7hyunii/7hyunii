@@ -86,7 +86,7 @@ Computer Science & Engineering @ **Pusan National University**
 ## 🏆 Awards
 | Date | Competition | Achievement | Link |
 |:---|:---|:---|:---:|
-| '26.04 - '26.05 | PNU Creative Convergence AI Hackathon (Preliminary) | 🏅 Excellence Award, Finalist | [🔗](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-02-terrabyte) |
+| '26.04 - '26.08 | PNU Creative Convergence AI Hackathon | 🏅 Excellence Award (Preliminary Round) · Finalist | [🔗](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-02-terrabyte) |
 | '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize (Project Development) | [🔗](https://github.com/Seq-Lab/PrimerFlow) | 
 | '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) | - |
 

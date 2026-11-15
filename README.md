@@ -5,12 +5,13 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome!👋&animation=fadeIn&fontAlignY=35&desc=Hyunii's%20Github%20Profile&descAlignY=54&descAlign=62&fontSize=70)
 -->
+<!--
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=50&pause=1000&color=00E0FF&center=true&vCenter=true&repeat=false&width=500&height=100&lines=git+commit+-m+'Hi:+there!')](https://git.io/typing-svg)
 
 </div>
-
+-->
 
 ### Hi, I'm **Seong-hyeon Mun**! 👋 
 

@@ -102,15 +102,17 @@ Computer Science & Engineering @ **Pusan National University**
 |:---|:---|:---|
 | '25 - Present | PNU PULSE (Academic club for Algorithmic PS and CP) | Member |
 | '26.09 - Present | PNU PULSE (Academic club for Algorithmic PS and CP) | Executive Member |
+| '26.09 - '26.11 | PNU PULSE Heuristic Contest | Contest Operations Platform Developer |
 
 
+<!--
 ## 
 <div align="center">
   
 ![7hyunii's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=7hyunii&show_icons=true&theme=github_dark&hide_border=true&hide=stars&show=reviews&count_private=true&custom_title=My%20Github%20Stats&card_width=300px)
 
 </div>
-
+-->
 
 <!--
 **7hyunii/7hyunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -89,7 +89,7 @@
 | Date | Competition | Achievement | Link |
 |:---|:---|:---|:---|
 | '26.04 - '26.08 | 7th PNU Creative Convergence AI Hackathon | 🏅 Excellence Award (Preliminary Round) · Finalist | [TerraByte](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-02-terrabyte) |
-| '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize (Project Development) | [PrimerFlow](https://github.com/Seq-Lab/PrimerFlow) | 
+| '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize | [PrimerFlow](https://github.com/Seq-Lab/PrimerFlow) | 
 | '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) | - |
 
 ## Activities
@@ -101,8 +101,7 @@
 -->
 | Date | Organization / Event | Role / Activity |
 |:---|:---|:---|
-| '25 - Present | PNU PULSE (Academic club for Algorithmic PS and CP) | Member |
-| '26.09 - Present | PNU PULSE (Academic club for Algorithmic PS and CP) | Executive Member |
+| '25 - Present | PNU PULSE (Academic club for Algorithmic PS and CP) | Member · Executive Member (since '26.09) |
 | '26.09 - '26.11 | PNU PULSE Heuristic Contest | Contest Operations Platform Developer |
 
 

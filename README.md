@@ -87,7 +87,7 @@
 
 ## Awards
 | Date | Competition | Achievement | Link |
-|:---|:---|:---|:---|
+|:---|:---|:---|:---:|
 | '26.04 - '26.08 | 7th PNU Creative Convergence AI Hackathon | 🏅 Excellence Award (Preliminary Round) · Finalist | [TerraByte](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-02-terrabyte) |
 | '25.12 - '26.02 | PNU AI Booster | 🥈 Second Prize | [PrimerFlow](https://github.com/Seq-Lab/PrimerFlow) | 
 | '25 | NYPC CODE BATTLE | 🏆 Special Award (Top 100, Top 13.6%) | - |
